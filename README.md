@@ -1,5 +1,6 @@
 
 [Базовый синтаксис MD](https://markdownguide.offshoot.io/basic-syntax/)
+
 [Продвинутый синтаксис MD](https://www.markdownguide.org/extended-syntax/)
 
 # Markdown Setup
@@ -87,3 +88,13 @@ button {
 <zarram89@gmail.com>
 
 ---
+
+## Таблицы
+
+| Левая | Цетровая | Правая |
+| :---- | :------: | -----: |
+| 1     | 2        |        |
+
+---
+
+
