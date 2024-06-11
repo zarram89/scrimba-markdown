@@ -16,8 +16,6 @@
 
 ---
 
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/5aznnppbg6d9uulbezyo.png) 
-
 ## Стили
 
 неполужирный **полужирный 1** и еще один __полужирный__
