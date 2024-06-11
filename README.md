@@ -71,4 +71,19 @@ button {
   cursor: pointer;
 }
 ```
-c
+
+---
+
+## Изображения
+
+![Cюда записываем alt-текс](https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?w=1024)
+
+---
+
+## Ссылки и почта
+
+[YouTube](https://www.youtube.com/)
+
+<zarram89@gmail.com>
+
+---
