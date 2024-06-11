@@ -36,6 +36,8 @@
 
 >"Важнейшее значение в романе имеют философские взгляды писателя."
 
+---
+
 ## Списки
 
 1. Строка 1
@@ -49,3 +51,24 @@
   - Подстока 2.1
   - Подстрока 2.2
 - Строка 3
+
+---
+
+## Блоки кода
+
+```css
+
+button {
+  font-family: "helvetica neue", helvetica, sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  border: 2px solid rgb(200 200 0 / 60%);
+  background-color: rgb(0 217 217 / 60%);
+  color: rgb(100 0 0 / 100%);
+  box-shadow: 1px 1px 2px rgb(0 0 200 / 40%);
+  border-radius: 10px;
+  padding: 3px 10px;
+  cursor: pointer;
+}
+```
+c
