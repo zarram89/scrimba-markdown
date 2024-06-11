@@ -1,9 +1,14 @@
 
+#MARKDOWN
+
+## Полезные ссылки по MD
+
 [Базовый синтаксис MD](https://markdownguide.offshoot.io/basic-syntax/)
 
 [Продвинутый синтаксис MD](https://www.markdownguide.org/extended-syntax/)
 
-# Markdown Setup
+[Туториал по MD](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 --- 
 # h1
 ## h2
@@ -93,8 +98,21 @@ button {
 
 | Левая | Цетровая | Правая |
 | :---- | :------: | -----: |
-| 1     | 2        |        |
+| 1     | 2        | 3      |
 
 ---
 
+## Чекбоксы
 
+- [ ] Анжумания
+- [x] Прэс качат
+
+---
+
+## Автоматические URL
+
+[YouTube](www.YouTube.com)
+
+www.YouTube.com
+
+`www.YouTube.com`
